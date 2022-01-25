@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/licresiahp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/licresiahp/static/js/main.111902df.chunk.js",
-    "main.js.map": "/licresiahp/static/js/main.111902df.chunk.js.map",
+    "main.js": "/licresiahp/static/js/main.798156f9.chunk.js",
+    "main.js.map": "/licresiahp/static/js/main.798156f9.chunk.js.map",
     "runtime-main.js": "/licresiahp/static/js/runtime-main.a91786f1.js",
     "runtime-main.js.map": "/licresiahp/static/js/runtime-main.a91786f1.js.map",
     "static/css/2.9c91becb.chunk.css": "/licresiahp/static/css/2.9c91becb.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.9c91becb.chunk.css",
     "static/js/2.9fa978c9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.111902df.chunk.js"
+    "static/js/main.798156f9.chunk.js"
   ]
 }
