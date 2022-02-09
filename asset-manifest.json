@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/licresiahp/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/licresiahp/static/js/main.87fe23ed.chunk.js",
-    "main.js.map": "/licresiahp/static/js/main.87fe23ed.chunk.js.map",
+    "main.js": "/licresiahp/static/js/main.8365c2fa.chunk.js",
+    "main.js.map": "/licresiahp/static/js/main.8365c2fa.chunk.js.map",
     "runtime-main.js": "/licresiahp/static/js/runtime-main.a91786f1.js",
     "runtime-main.js.map": "/licresiahp/static/js/runtime-main.a91786f1.js.map",
     "static/css/2.9c91becb.chunk.css": "/licresiahp/static/css/2.9c91becb.chunk.css",
@@ -14,12 +14,15 @@
     "static/css/2.9c91becb.chunk.css.map": "/licresiahp/static/css/2.9c91becb.chunk.css.map",
     "static/css/main.2ae47eeb.chunk.css.map": "/licresiahp/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.24771453.chunk.js.LICENSE.txt": "/licresiahp/static/js/2.24771453.chunk.js.LICENSE.txt",
+    "static/media/copy.bf7cbc44.png": "/licresiahp/static/media/copy.bf7cbc44.png",
+    "static/media/melody.4089c4b0.png": "/licresiahp/static/media/melody.4089c4b0.png",
     "static/media/mock1.86c335a3.png": "/licresiahp/static/media/mock1.86c335a3.png",
     "static/media/mock2.b996c973.png": "/licresiahp/static/media/mock2.b996c973.png",
     "static/media/mock3.5d2b4da5.png": "/licresiahp/static/media/mock3.5d2b4da5.png",
     "static/media/mock4.cd5b260b.png": "/licresiahp/static/media/mock4.cd5b260b.png",
     "static/media/mock5.d2004e5c.png": "/licresiahp/static/media/mock5.d2004e5c.png",
     "static/media/mock6.eb9e21cc.png": "/licresiahp/static/media/mock6.eb9e21cc.png",
+    "static/media/quantize.2d91590d.png": "/licresiahp/static/media/quantize.2d91590d.png",
     "static/media/slick-theme.css": "/licresiahp/static/media/slick.c94f7671.ttf",
     "static/media/★作曲の構想に特化した新しいDTM.e12e7c24.png": "/licresiahp/static/media/★作曲の構想に特化した新しいDTM.e12e7c24.png",
     "static/media/★音楽理論をシステムに内臓.78661c51.png": "/licresiahp/static/media/★音楽理論をシステムに内臓.78661c51.png"
@@ -29,6 +32,6 @@
     "static/css/2.9c91becb.chunk.css",
     "static/js/2.24771453.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.87fe23ed.chunk.js"
+    "static/js/main.8365c2fa.chunk.js"
   ]
 }
