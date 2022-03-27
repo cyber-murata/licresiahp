@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/licresiahp/static/css/main.2ae47eeb.chunk.css",
-    "main.js": "/licresiahp/static/js/main.61f205b3.chunk.js",
-    "main.js.map": "/licresiahp/static/js/main.61f205b3.chunk.js.map",
+    "main.js": "/licresiahp/static/js/main.8d6deea2.chunk.js",
+    "main.js.map": "/licresiahp/static/js/main.8d6deea2.chunk.js.map",
     "runtime-main.js": "/licresiahp/static/js/runtime-main.a91786f1.js",
     "runtime-main.js.map": "/licresiahp/static/js/runtime-main.a91786f1.js.map",
     "static/css/2.9c91becb.chunk.css": "/licresiahp/static/css/2.9c91becb.chunk.css",
@@ -14,16 +14,20 @@
     "static/css/2.9c91becb.chunk.css.map": "/licresiahp/static/css/2.9c91becb.chunk.css.map",
     "static/css/main.2ae47eeb.chunk.css.map": "/licresiahp/static/css/main.2ae47eeb.chunk.css.map",
     "static/js/2.91e08d3f.chunk.js.LICENSE.txt": "/licresiahp/static/js/2.91e08d3f.chunk.js.LICENSE.txt",
-    "static/media/copy.bf7cbc44.png": "/licresiahp/static/media/copy.bf7cbc44.png",
-    "static/media/manual1.16144359.png": "/licresiahp/static/media/manual1.16144359.png",
-    "static/media/melody.4089c4b0.png": "/licresiahp/static/media/melody.4089c4b0.png",
+    "static/media/manual_detail1.16144359.png": "/licresiahp/static/media/manual_detail1.16144359.png",
+    "static/media/manual_detail2.876c417c.png": "/licresiahp/static/media/manual_detail2.876c417c.png",
+    "static/media/manual_detail3.29a709f7.png": "/licresiahp/static/media/manual_detail3.29a709f7.png",
+    "static/media/manual_detail4.ba1a1da6.png": "/licresiahp/static/media/manual_detail4.ba1a1da6.png",
+    "static/media/manual_detail5.6216d31d.png": "/licresiahp/static/media/manual_detail5.6216d31d.png",
+    "static/media/manual_detail6.9f00fc9a.png": "/licresiahp/static/media/manual_detail6.9f00fc9a.png",
+    "static/media/manual_detail7.319366cb.png": "/licresiahp/static/media/manual_detail7.319366cb.png",
+    "static/media/manual_detail8.860f0c15.png": "/licresiahp/static/media/manual_detail8.860f0c15.png",
+    "static/media/manual_detail9.bce08405.png": "/licresiahp/static/media/manual_detail9.bce08405.png",
     "static/media/mock1.86c335a3.png": "/licresiahp/static/media/mock1.86c335a3.png",
     "static/media/mock2.b996c973.png": "/licresiahp/static/media/mock2.b996c973.png",
     "static/media/mock4.cd5b260b.png": "/licresiahp/static/media/mock4.cd5b260b.png",
     "static/media/mock5.d2004e5c.png": "/licresiahp/static/media/mock5.d2004e5c.png",
     "static/media/mock6.eb9e21cc.png": "/licresiahp/static/media/mock6.eb9e21cc.png",
-    "static/media/qontaizedetail.876c417c.png": "/licresiahp/static/media/qontaizedetail.876c417c.png",
-    "static/media/quantize.2d91590d.png": "/licresiahp/static/media/quantize.2d91590d.png",
     "static/media/slick-theme.css": "/licresiahp/static/media/slick.c94f7671.ttf",
     "static/media/★作曲の構想に特化した新しいDTM.e12e7c24.png": "/licresiahp/static/media/★作曲の構想に特化した新しいDTM.e12e7c24.png",
     "static/media/★音楽理論をシステムに内臓.78661c51.png": "/licresiahp/static/media/★音楽理論をシステムに内臓.78661c51.png"
@@ -33,6 +37,6 @@
     "static/css/2.9c91becb.chunk.css",
     "static/js/2.91e08d3f.chunk.js",
     "static/css/main.2ae47eeb.chunk.css",
-    "static/js/main.61f205b3.chunk.js"
+    "static/js/main.8d6deea2.chunk.js"
   ]
 }
